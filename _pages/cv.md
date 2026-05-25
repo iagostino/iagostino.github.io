@@ -9,37 +9,109 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Isabel Agostino
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Ph.D. Candidate in Industrial Engineering & Operations Research**  
+Berkeley, CA  
+📧 iagostino@berkeley.edu  
+🌐 https://iagostino.github.io  
+LinkedIn: isabelagostino | GitHub: iagostino  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
+
+### University of California, Berkeley
+**Ph.D., Industrial Engineering & Operations Research**  
+2024–2028 (expected) — Berkeley, CA  
+
+- Advisor: Dr. Thibaut Mastrolia  
+- Research stochastic optimal control and Markov decision processes using dynamic programming and Monte Carlo methods to design control policies under uncertainty  
+- Work with Hawkes processes to model temporally clustered and self-exciting events; study how exogenous random events impact the environment and optimal controls  
+
+---
+
+### University of California, Berkeley
+**M.S., Industrial Engineering & Operations Research**  
+2023–2024 — Berkeley, CA  
+
+- Worked with Dr. Alper Atamtürk on Resilient Logistics (U.S. Department of Defense, Office of Naval Research)  
+- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling  
+- Developed stochastic and scenario-based models for uncertainty in demand, transit times, and system disruptions  
+- Built scalable algorithms for high-dimensional routing and scheduling problems  
+- Contributed to decision-support tools for logistics planning, visualization, and reporting  
+
+---
+
+### William & Mary
+**B.S., Mathematics (Minor: Economics)**  
+2018–2022 — Williamsburg, VA  
+
+- Thesis: Approximating Star-Discrepancy with a Genetic Algorithm  
+- Graduated summa cum laude and Phi Beta Kappa with departmental honors  
+
+---
+
+## Experience
+
+### NASA Ames Research Center
+**OSTEM Intern**  
+2026 (Summer) — Mountain View, CA  
+
+- Research internship (details to be updated)
+
+---
+
+### West Monroe Partners
+**Consultant & Business Analyst**  
+2022–2023 — Tysons, VA  
+
+- Automated financial reporting workflows, reducing manual error rates and processing time  
+- Built structured data validation and querying tools for improved analytical reliability  
+- Standardized data workflows across teams and clients  
+- Produced documentation and process guides for long-term maintainability  
+
+---
+
+### National Institute of Standards and Technology (NIST)
+**Summer Undergraduate Research Fellow**  
+Summer 2021 — Gaithersburg, MD  
+
+- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences  
+- Evaluated convergence behavior, efficiency, and solution quality  
+- Benchmarked heuristic performance against theoretical methods  
+
+---
+
+## Preprints
+
+### Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs
+- Isabel Agostino, Thibaut Mastrolia  
+- https://arxiv.org/abs/2602.05025  
+- arXiv preprint (2026)  
+
+---
+
+## Selected Honors
+
+- Outstanding Graduate Student Instructor Award (2026)  
+- UC Berkeley Chancellor’s Fellowship (2024)  
+- James Monroe Scholars Program (2018)  
+
+---
+
+## Skills
+
+**Languages:** Python, Julia, R, SQL, MATLAB  
+**ML Frameworks:** PyTorch, scikit-learn, TensorFlow  
+
+---
+
+## Presentations
+
+- **Unifying Discrete and Continuous Time Mixed Optimal Stopping–Singular Stochastic Optimization for Power Plant Investment**  
+  SIAM Conference on Financial Mathematics and Engineering (FM25)  
+  Mini-symposium: Recent Advances in Stochastic Control with Multiple Players, Incentives, and Financial Economics  
 
 Publications
 ======
