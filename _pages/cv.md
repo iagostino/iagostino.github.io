@@ -83,15 +83,6 @@ Summer 2021 — Gaithersburg, MD
 
 ---
 
-## Preprints
-
-### Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs
-- Isabel Agostino, Thibaut Mastrolia  
-- https://arxiv.org/abs/2602.05025  
-- arXiv preprint (2026)  
-
----
-
 ## Selected Honors
 
 - Outstanding Graduate Student Instructor Award (2026)  
@@ -106,12 +97,6 @@ Summer 2021 — Gaithersburg, MD
 **ML Frameworks:** PyTorch, scikit-learn, TensorFlow  
 
 ---
-
-## Presentations
-
-- **Unifying Discrete and Continuous Time Mixed Optimal Stopping–Singular Stochastic Optimization for Power Plant Investment**  
-  SIAM Conference on Financial Mathematics and Engineering (FM25)  
-  Mini-symposium: Recent Advances in Stochastic Control with Multiple Players, Incentives, and Financial Economics  
 
 Publications
 ======
@@ -131,6 +116,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
