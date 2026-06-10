@@ -21,7 +21,7 @@ I am currently working on stochastic control, especially its role in designing c
 ---
 ### Pre-prints
 <ul>
-  <li> <a https://arxiv.org/abs/2602.05025>  
+  <li> <a href=https://arxiv.org/abs/2602.05025>  
     Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs]</a> with Thibaut Mastrolia</li>
 </ul>
 
