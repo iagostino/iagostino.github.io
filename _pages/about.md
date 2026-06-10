@@ -21,19 +21,20 @@ I am currently working on stochastic control, especially its role in designing c
 ---
 ### Pre-prints
 <ul>
-  <li>[Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs](https://arxiv.org/abs/2602.05025) with Thibaut Mastrolia</li>
+  <li> <a https://arxiv.org/abs/2602.05025>  
+    Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs]</a> with Thibaut Mastrolia</li>
 </ul>
 
 ## Education
 ---
 <ul>
-  <li>**Ph.D. in Industrial Engineering & Operations Research**, University of California, Berkeley <br>
+  <li><b>Ph.D. in Industrial Engineering & Operations Research</b>, University of California, Berkeley <br>
     2024 - Present
   </li>
-  <li>**M.S. in Industrial Engineering & Operations Research**, University of California, Berkeley <br>
+  <li><b>M.S. in Industrial Engineering & Operations Research</b>, University of California, Berkeley <br>
     2023 - 2024
   </li>
-  <li>**B.S. in Mathematics**, William & Mary <br>
+  <li><b>B.S. in Mathematics</b>, William & Mary <br>
     2018 - 2022
   </li>
 </ul>
