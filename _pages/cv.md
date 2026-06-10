@@ -85,9 +85,11 @@ Summer 2021 — Gaithersburg, MD
 
 ## Selected Honors
 
-- Outstanding Graduate Student Instructor Award (2026)  
-- UC Berkeley Chancellor’s Fellowship (2024)  
-- James Monroe Scholars Program (2018)  
+- [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (2026)  
+- UC Berkeley Chancellor’s Fellowship (2024)
+- [Phi Beta Kappa](https://www.wm.edu/sites/pbk/selectionprocess/), Alpha Chapter of Virginia (2022)
+- [Departmental Honors](https://www.wm.edu/as/mathematics/research/undergraduate_research/honors/), William & Mary Department of Mathematics (2022)
+- [James Monroe Scholars Program](https://www.wm.edu/as/monroescholars/) (2018)  
 
 ---
 
