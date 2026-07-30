@@ -19,6 +19,53 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 
 ---
 
+## Experience
+
+### NASA Ames Research Center, Intelligent Systems Division
+**OSTEM Intern**  
+2026 (Summer) — Mountain View, CA  
+
+- Developed a path-planning module for the fmdtools Python library, under review for inclusion in the next release.
+- Integrated route-generation methods into existing workflows to enhance autonomous-system simulation under degraded conditions.
+- Authored unit and integration tests to ensure numerical robustness and library compatibility, and prepared end‑user examples to support correct and transparent usage.
+
+<!-- Developed a new path-planning class and supporting functionality for fmdtools, a Python library for fault modeling and evaluation, improving its ability to simulate autonomous system behavior under degraded conditions. -->
+<!-- Integrated custom path-planning methods into existing fmdtools workflows, enabling smoother interaction between fault modeling, system behavior representation, and route generation. -->
+<!-- Designed and executed thorough unit and integration tests to validate algorithm performance, ensure numerical stability, and verify compatibility with the broader library ecosystem. -->
+<!-- Collaborated with mentors and researchers to refine requirements, troubleshoot unexpected behavior, and iterate on design choices to support future modeling capabilities. -->
+
+
+
+
+### West Monroe Partners
+**Consultant & Business Analyst**  
+2022–2023 — Tysons, VA  
+
+- Automated financial reporting workflows by developing data processing and validation pipelines, significantly reducing manual error rates and turnaround time.
+- Designed structured data querying and validation tools to improve reliability, traceability, and reproducibility of analytical outputs.
+- Standardized and documented data workflows to enhance transparency and ensure consistent execution across internal teams and client stakeholders.
+- Delivered user-oriented documentation and process guides to support adoption and long-term maintainability of automated tools.
+
+<!-- Automated financial reporting workflows, reducing manual error rates and processing time  -->
+<!-- Built structured data validation and querying tools for improved analytical reliability -->
+<!-- Standardized data workflows across teams and clients -->
+<!-- Produced documentation and process guides for long-term maintainability -->
+
+
+
+### National Institute of Standards and Technology (NIST)
+**Summer Undergraduate Research Fellow**  
+Summer 2021 — Gaithersburg, MD  
+
+- Designed and implemented a scalable genetic algorithm to approximate star discrepancy in high-dimensional quasi-random sequences (an NP-hard optimization problem).
+- Analyzed convergence behavior and algorithm efficiency compared to theoretical and exisiting methods..
+
+<!-- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences -->
+<!-- Evaluated convergence behavior, efficiency, and solution quality -->
+<!-- Benchmarked heuristic performance against theoretical methods -->
+
+---
+
 ## Education
 
 ### University of California, Berkeley
@@ -31,7 +78,6 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 - Developing BSDE/2BSDE techniques for mean-field contract theory under common noise and jump risk, including new Itô calculus for two coupled flows of conditional measures.
 
 
----
 
 ### University of California, Berkeley
 **M.S., Industrial Engineering & Operations Research**  
@@ -48,7 +94,6 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 <!-- Built scalable algorithms for high-dimensional routing and scheduling problems -->
 <!-- Contributed to decision-support tools for logistics planning, visualization, and reporting -->
 
----
 
 ### William & Mary
 **B.S., Mathematics (Minor: Economics)**  
@@ -56,54 +101,6 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 
 - Thesis: Approximating Star-Discrepancy with a Genetic Algorithm  
 - Graduated summa cum laude and Phi Beta Kappa with departmental honors.  
-
----
-
-## Experience
-
-### NASA Ames Research Center
-**OSTEM Intern**  
-2026 (Summer) — Mountain View, CA  
-
-- Developed a path-planning module for the \texttt{fmdtools} Python library, under review for inclusion in the next release.
-- Integrated route-generation methods into existing workflows to enhance autonomous-system simulation under degraded conditions.
-- Authored unit and integration tests to ensure numerical robustness and library compatibility, and prepared end‑user examples to support correct and transparent usage.
-
-<!-- Developed a new path-planning class and supporting functionality for fmdtools, a Python library for fault modeling and evaluation, improving its ability to simulate autonomous system behavior under degraded conditions. -->
-<!-- Integrated custom path-planning methods into existing fmdtools workflows, enabling smoother interaction between fault modeling, system behavior representation, and route generation. -->
-<!-- Designed and executed thorough unit and integration tests to validate algorithm performance, ensure numerical stability, and verify compatibility with the broader library ecosystem. -->
-<!-- Collaborated with mentors and researchers to refine requirements, troubleshoot unexpected behavior, and iterate on design choices to support future modeling capabilities. -->
-
-
----
-
-### West Monroe Partners
-**Consultant & Business Analyst**  
-2022–2023 — Tysons, VA  
-
-- Automated financial reporting workflows by developing data processing and validation pipelines, significantly reducing manual error rates and turnaround time.
-- Designed structured data querying and validation tools to improve reliability, traceability, and reproducibility of analytical outputs.
-- Standardized and documented data workflows to enhance transparency and ensure consistent execution across internal teams and client stakeholders.
-- Delivered user-oriented documentation and process guides to support adoption and long-term maintainability of automated tools.
-
-<!-- Automated financial reporting workflows, reducing manual error rates and processing time  -->
-<!-- Built structured data validation and querying tools for improved analytical reliability -->
-<!-- Standardized data workflows across teams and clients -->
-<!-- Produced documentation and process guides for long-term maintainability -->
-
----
-
-### National Institute of Standards and Technology (NIST)
-**Summer Undergraduate Research Fellow**  
-Summer 2021 — Gaithersburg, MD  
-
-- Designed and implemented a scalable genetic algorithm to approximate star discrepancy in high-dimensional quasi-random sequences (an NP-hard optimization problem).
-- Evaluated convergence behavior, computational efficiency, and approximation quality across high-dimensional test cases.
-- Conducted statistical analysis of heuristic performance and benchmarked results against theoretical bounds and existing methods.
-
-<!-- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences -->
-<!-- Evaluated convergence behavior, efficiency, and solution quality -->
-<!-- Benchmarked heuristic performance against theoretical methods -->
 
 ---
 
