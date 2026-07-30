@@ -40,8 +40,6 @@ LinkedIn: isabelagostino | GitHub: iagostino
 - Worked with Dr. Alper Atamtürk on Resilient Logistics (U.S. Department of Defense, Office of Naval Research).
 - Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling; incorporated operational, capacity, timing, and resource constraints across distributed logistics networks.
 - Developed stochastic and scenario-based modeling components to account for uncertainty in demand, transit times, and system disruptions.
-- Built scalable algorithms to solve high-dimensional routing and scheduling problems and evaluated performance across simulated operational scenarios.
-- Iteratively refined models through collaboration with Navy stakeholders and multi-university research teams to ensure operational realism and robustness.
 - Contributed to the development of a deployable decision-support tool, including visualization and reporting components, to support data-driven logistics planning for end users.
 
   
