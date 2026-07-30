@@ -26,8 +26,10 @@ LinkedIn: isabelagostino | GitHub: iagostino
 2024–2028 (expected) — Berkeley, CA  
 
 - Advisor: Dr. Thibaut Mastrolia  
-- Research stochastic optimal control and Markov decision processes using dynamic programming and Monte Carlo methods to design control policies under uncertainty  
-- Work with Hawkes processes to model temporally clustered and self-exciting events; study how exogenous random events impact the environment and optimal controls  
+- Formulated and solved a singular-stopping stochastic control problem with self-exciting (Hawkes) jump dynamics via a variational HJB equation with gradient constraints.
+- Built a discrete-time Markov chain approximation (with a novel Hawkes-process discretization) and proved its value function converges to the continuous-time control problem, then validated the theory with Monte Carlo simulations in Python.
+- Developing BSDE/2BSDE techniques for mean-field contract theory under common noise and jump risk, including new Itô calculus for two coupled flows of conditional measures.
+
 
 ---
 
@@ -35,11 +37,18 @@ LinkedIn: isabelagostino | GitHub: iagostino
 **M.S., Industrial Engineering & Operations Research**  
 2023–2024 — Berkeley, CA  
 
-- Worked with Dr. Alper Atamtürk on Resilient Logistics (U.S. Department of Defense, Office of Naval Research)  
-- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling  
-- Developed stochastic and scenario-based models for uncertainty in demand, transit times, and system disruptions  
-- Built scalable algorithms for high-dimensional routing and scheduling problems  
-- Contributed to decision-support tools for logistics planning, visualization, and reporting  
+- Worked with Dr. Alper Atamtürk on Resilient Logistics (U.S. Department of Defense, Office of Naval Research).
+- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling; incorporated operational, capacity, timing, and resource constraints across distributed logistics networks.
+- Developed stochastic and scenario-based modeling components to account for uncertainty in demand, transit times, and system disruptions.
+- Built scalable algorithms to solve high-dimensional routing and scheduling problems and evaluated performance across simulated operational scenarios.
+- Iteratively refined models through collaboration with Navy stakeholders and multi-university research teams to ensure operational realism and robustness.
+- Contributed to the development of a deployable decision-support tool, including visualization and reporting components, to support data-driven logistics planning for end users.
+
+  
+<!-- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling.-->
+<!-- Developed stochastic and scenario-based models for uncertainty in demand, transit times, and system disruptions.-->
+<!-- Built scalable algorithms for high-dimensional routing and scheduling problems -->
+<!-- Contributed to decision-support tools for logistics planning, visualization, and reporting -->
 
 ---
 
@@ -48,7 +57,7 @@ LinkedIn: isabelagostino | GitHub: iagostino
 2018–2022 — Williamsburg, VA  
 
 - Thesis: Approximating Star-Discrepancy with a Genetic Algorithm  
-- Graduated summa cum laude and Phi Beta Kappa with departmental honors  
+- Graduated summa cum laude and Phi Beta Kappa with departmental honors.  
 
 ---
 
@@ -58,7 +67,15 @@ LinkedIn: isabelagostino | GitHub: iagostino
 **OSTEM Intern**  
 2026 (Summer) — Mountain View, CA  
 
-- Research internship (details to be updated)
+- Developed a path-planning module for the \texttt{fmdtools} Python library, under review for inclusion in the next release.
+- Integrated route-generation methods into existing workflows to enhance autonomous-system simulation under degraded conditions.
+- Authored unit and integration tests to ensure numerical robustness and library compatibility, and prepared end‑user examples to support correct and transparent usage.
+
+<!-- Developed a new path-planning class and supporting functionality for fmdtools, a Python library for fault modeling and evaluation, improving its ability to simulate autonomous system behavior under degraded conditions. -->
+<!-- Integrated custom path-planning methods into existing fmdtools workflows, enabling smoother interaction between fault modeling, system behavior representation, and route generation. -->
+<!-- Designed and executed thorough unit and integration tests to validate algorithm performance, ensure numerical stability, and verify compatibility with the broader library ecosystem. -->
+<!-- Collaborated with mentors and researchers to refine requirements, troubleshoot unexpected behavior, and iterate on design choices to support future modeling capabilities. -->
+
 
 ---
 
@@ -66,10 +83,15 @@ LinkedIn: isabelagostino | GitHub: iagostino
 **Consultant & Business Analyst**  
 2022–2023 — Tysons, VA  
 
-- Automated financial reporting workflows, reducing manual error rates and processing time  
-- Built structured data validation and querying tools for improved analytical reliability  
-- Standardized data workflows across teams and clients  
-- Produced documentation and process guides for long-term maintainability  
+- Automated financial reporting workflows by developing data processing and validation pipelines, significantly reducing manual error rates and turnaround time.
+- Designed structured data querying and validation tools to improve reliability, traceability, and reproducibility of analytical outputs.
+- Standardized and documented data workflows to enhance transparency and ensure consistent execution across internal teams and client stakeholders.
+- Delivered user-oriented documentation and process guides to support adoption and long-term maintainability of automated tools.
+
+<!-- Automated financial reporting workflows, reducing manual error rates and processing time  -->
+<!-- Built structured data validation and querying tools for improved analytical reliability -->
+<!-- Standardized data workflows across teams and clients -->
+<!-- Produced documentation and process guides for long-term maintainability -->
 
 ---
 
@@ -77,9 +99,13 @@ LinkedIn: isabelagostino | GitHub: iagostino
 **Summer Undergraduate Research Fellow**  
 Summer 2021 — Gaithersburg, MD  
 
-- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences  
-- Evaluated convergence behavior, efficiency, and solution quality  
-- Benchmarked heuristic performance against theoretical methods  
+- Designed and implemented a scalable genetic algorithm to approximate star discrepancy in high-dimensional quasi-random sequences (an NP-hard optimization problem).
+- Evaluated convergence behavior, computational efficiency, and approximation quality across high-dimensional test cases.
+- Conducted statistical analysis of heuristic performance and benchmarked results against theoretical bounds and existing methods.
+
+<!-- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences -->
+<!-- Evaluated convergence behavior, efficiency, and solution quality -->
+<!-- Benchmarked heuristic performance against theoretical methods -->
 
 ---
 
