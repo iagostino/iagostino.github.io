@@ -15,7 +15,7 @@ redirect_from:
 Berkeley, CA  
 📧 iagostino@berkeley.edu  
 🌐 https://iagostino.github.io  
-LinkedIn: isabelagostino | GitHub: iagostino  
+LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub: [iagostino](https://github.com/iagostino) 
 
 ---
 
