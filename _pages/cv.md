@@ -25,9 +25,9 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 **OSTEM Intern**  
 2026 (Summer) — Mountain View, CA  
 
-- Developed a path-planning module for the fmdtools Python library, under review for inclusion in the next release.
-- Integrated route-generation methods into existing workflows to enhance autonomous-system simulation under degraded conditions.
-- Authored unit and integration tests to ensure numerical robustness and library compatibility, and prepared end‑user examples to support correct and transparent usage.
+- Developed a new route-planning capability, [`PathPlannerBase`](https://github.com/nasa/fmdtools/blob/main/src/fmdtools/define/pathplan.py, for modeling autonomous system resilience and behavior under degraded conditions.
+- Performed unit and integration testing to support package inclusion in [`fmdtools` v2.5.0](https://github.com/nasa/fmdtools/releases/tag/v2.5.0).
+- Authored  documentation and examples to improve public access in line with NASA's open science goals.
 
 <!-- Developed a new path-planning class and supporting functionality for fmdtools, a Python library for fault modeling and evaluation, improving its ability to simulate autonomous system behavior under degraded conditions. -->
 <!-- Integrated custom path-planning methods into existing fmdtools workflows, enabling smoother interaction between fault modeling, system behavior representation, and route generation. -->
@@ -41,10 +41,8 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 **Consultant & Business Analyst**  
 2022–2023 — Tysons, VA  
 
-- Automated financial reporting workflows by developing data processing and validation pipelines, significantly reducing manual error rates and turnaround time.
-- Designed structured data querying and validation tools to improve reliability, traceability, and reproducibility of analytical outputs.
-- Standardized and documented data workflows to enhance transparency and ensure consistent execution across internal teams and client stakeholders.
-- Delivered user-oriented documentation and process guides to support adoption and long-term maintainability of automated tools.
+- Automated financial reporting workflows via data-processing pipelines, reducing manual effort and errors.
+- Translated client negotiations into precise contract revisions, ensuring business requirements were accurately documented and mutually understood by all stakeholders.
 
 <!-- Automated financial reporting workflows, reducing manual error rates and processing time  -->
 <!-- Built structured data validation and querying tools for improved analytical reliability -->
@@ -57,8 +55,8 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 **Summer Undergraduate Research Fellow**  
 Summer 2021 — Gaithersburg, MD  
 
-- Designed and implemented a scalable genetic algorithm to approximate star discrepancy in high-dimensional quasi-random sequences (an NP-hard optimization problem).
-- Analyzed convergence behavior and algorithm efficiency compared to theoretical and exisiting methods..
+- Developed a scalable genetic algorithm for evaluating the  uniformity (star discrepancy) of high-dimensional quasi-random sequences.
+- Evaluated convergence and computational efficiency against existing algorithms and theoretical benchmarks.
 
 <!-- Developed a genetic algorithm to approximate star discrepancy in high-dimensional sequences -->
 <!-- Evaluated convergence behavior, efficiency, and solution quality -->
@@ -72,10 +70,15 @@ Summer 2021 — Gaithersburg, MD
 **Ph.D., Industrial Engineering & Operations Research**  
 2024–2028 (expected) — Berkeley, CA  
 
-- Advisor: Dr. Thibaut Mastrolia  
-- Formulated and solved a singular-stopping stochastic control problem with self-exciting (Hawkes) jump dynamics via a variational HJB equation with gradient constraints.
-- Built a discrete-time Markov chain approximation (with a novel Hawkes-process discretization) and proved its value function converges to the continuous-time control problem, then validated the theory with Monte Carlo simulations in Python.
-- Developing BSDE/2BSDE techniques for mean-field contract theory under common noise and jump risk, including new Itô calculus for two coupled flows of conditional measures.
+- Advisor: Dr. Thibaut Mastrolia
+- Developed mathematical models to optimize investment decisions for critical energy infrastructure under uncertainty and cyber threats, enabling evaluation of risk-management strategies.
+- Built and analyzed efficient Markov chain approximation algorithms, with novel Hawkes process discretization, that made otherwise intractable decision problems computationally feasible.
+- Developed stochastic model using new It\^o calculus techniques to address energy demand-response contracting under uncertain customer behavior and random service disruptions.
+
+  
+<!-- Formulated and solved a singular-stopping stochastic control problem with self-exciting (Hawkes) jump dynamics via a variational HJB equation with gradient constraints.
+<!-- Built a discrete-time Markov chain approximation (with a novel Hawkes-process discretization) and proved its value function converges to the continuous-time control problem, then validated the theory with Monte Carlo simulations in Python.
+- Developing BSDE/2BSDE techniques for mean-field contract theory under common noise and jump risk, including new Itô calculus for two coupled flows of conditional measures.-->
 
 
 
@@ -84,9 +87,9 @@ Summer 2021 — Gaithersburg, MD
 2023–2024 — Berkeley, CA  
 
 - Worked with Dr. Alper Atamtürk on Resilient Logistics (U.S. Department of Defense, Office of Naval Research).
-- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling; incorporated operational, capacity, timing, and resource constraints across distributed logistics networks.
-- Developed stochastic and scenario-based modeling components to account for uncertainty in demand, transit times, and system disruptions.
-- Contributed to the development of a deployable decision-support tool, including visualization and reporting components, to support data-driven logistics planning for end users.
+- Designed and built optimization models to evaluate how multi-stage supply chains could continue operating under disruptions and operational hazards.
+- Formulated and solved large-scale constrained routing and scheduling problems to enable comparison of logistics strategies before committing resources.
+- Contributed  user-friendly back-end analytics components to a decision-support tool used for operational planning.
 
   
 <!-- Designed and implemented large-scale, constraint-intensive optimization models for multi-stage supply chain routing and scheduling.-->
@@ -116,9 +119,9 @@ Summer 2021 — Gaithersburg, MD
 
 ## Skills
 
-**Languages:** Python, Julia, R, SQL, MATLAB  
-**ML Frameworks:** PyTorch, scikit-learn, TensorFlow  
-
+**Languages:** Python, Julia, R, SQL, MATLAB, VBA
+**Optimization:** Gurobi, Pyomo, CVXPY, linear & nonlinear optimization, dynamic programming, Monte Carlo simulation
+**Scientific Computing:** NumPy, SciPy, pandas, scikit-learn, Numba, Git
 ---
 
 Publications
