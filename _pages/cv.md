@@ -25,7 +25,7 @@ LinkedIn: [isabelagostino](https://www.linkedin.com/in/isabelagostino/) | GitHub
 **OSTEM Intern**  
 2026 (Summer) — Mountain View, CA  
 
-- Developed a new route-planning capability, [`PathPlannerBase`](https://github.com/nasa/fmdtools/blob/main/src/fmdtools/define/pathplan.py, for modeling autonomous system resilience and behavior under degraded conditions.
+- Developed a new route-planning capability, [`PathPlannerBase`](https://github.com/nasa/fmdtools/blob/main/src/fmdtools/define/pathplan.py), for modeling autonomous system resilience and behavior under degraded conditions.
 - Performed unit and integration testing to support package inclusion in [`fmdtools` v2.5.0](https://github.com/nasa/fmdtools/releases/tag/v2.5.0).
 - Authored  documentation and examples to improve public access in line with NASA's open science goals.
 
