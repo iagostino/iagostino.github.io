@@ -143,8 +143,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "isabel_cropped.jpeg"
-og_description           :  "Isabel Agostino is a Ph.D. candidate in IEOR at UC Berkeley, working on stochastic control and mathematical finance."
+og_image                 :  ""
+og_description           :  ""
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
