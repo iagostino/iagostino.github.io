@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Isabel Agostino"
 title_separator          : "-"
 name                     : &name "Isabel Agostino"
-description              : &description "Isabel Agostino's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Isabel Agostino is a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley, working on stochastic control and mathematical finance."
 url                      : https://iagostino.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "iagostino/iagostino.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -143,14 +143,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  "isabel_cropped.jpeg"
+og_description           :  "Isabel Agostino is a Ph.D. candidate in IEOR at UC Berkeley, working on stochastic control and mathematical finance."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Isabel Agostino"
+  links:
+    - "https://scholar.google.com/citations?user=CQAqpP8AAAAJ"
+    - "https://orcid.org/0009-0004-0608-7554"
+    - "https://github.com/iagostino"
+    - "https://www.linkedin.com/in/isabelagostino"
 
 
 # Analytics
@@ -192,6 +196,14 @@ exclude:
   - README
   - tmp
   - vendor
+  - markdown_generator
+  - talkmap
+  - "*.ipynb"
+  - talkmap.py
+  - docker-compose.yaml
+  - scripts
+  - docs
+  - .devcontainer
 keep_files:
   - .git
   - .svn
@@ -225,9 +237,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
