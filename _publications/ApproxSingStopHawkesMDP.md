@@ -4,7 +4,8 @@ date: 2026-02-04
 collection: publications
 category: preprints
 permalink: /publication/ApproxSingStopHawkesMDP
-excerpt: 
+excerpt: ""
+description: "Paper on approximating singular-stopping control problems driven by Hawkes processes, with Thibaut Mastrolia."
 citation: "Agostino, I., & Mastrolia, T. (2026). Approximation of Singular-Stopping Control Driven by Hawkes Processes via Rescaled MDPs. <i>arXiv preprint arXiv:2602.05025</i>."
 ---
 
