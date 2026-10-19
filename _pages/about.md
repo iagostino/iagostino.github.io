@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Isabel Agostino"
+title: "Ph.D. Candidate in IEOR, UC Berkeley"
 author_profile: true
+description: "Isabel Agostino is a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley, working on stochastic control and mathematical finance."
 redirect_from: 
   - /about/
   - /about.html
