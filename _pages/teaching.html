@@ -11,7 +11,7 @@ author_profile: true
 {% for post in teaching_items %}
 <div class="list__item">
   <article class="archive__item">
-    <h2 class="archive__item-title">{{ post.title }}</h2>
+    <h2 class="archive__item-title" style="text-decoration: none;">{{ post.title }}</h2>
     <p class="page__meta">{{ post.type }}, {{ post.venue }}, {{ post.date | date: "%Y" }}</p>
     <div class="archive__item-excerpt">{{ post.content | markdownify }}</div>
   </article>
